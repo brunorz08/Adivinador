@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Adivinador\Adivinador\bin\Debug\net6.0\Adivinador.exe
+C:\Users\Asus\Desktop\Adivinador\Adivinador\bin\Debug\net6.0\Adivinador.deps.json
+C:\Users\Asus\Desktop\Adivinador\Adivinador\bin\Debug\net6.0\Adivinador.runtimeconfig.json
+C:\Users\Asus\Desktop\Adivinador\Adivinador\bin\Debug\net6.0\Adivinador.dll
+C:\Users\Asus\Desktop\Adivinador\Adivinador\bin\Debug\net6.0\Adivinador.pdb
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.dll
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\refint\Adivinador.dll
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.pdb
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\Adivinador.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Adivinador\Adivinador\obj\Debug\net6.0\ref\Adivinador.dll
